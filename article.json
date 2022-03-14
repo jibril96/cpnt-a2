@@ -1,0 +1,72 @@
+{
+  "story": {
+    "name": "article",
+    "created_at": "2022-03-13T18:43:42.409Z",
+    "published_at": null,
+    "id": 115046259,
+    "uuid": "59610ae8-6489-43fa-8930-41269c61356a",
+    "content": {
+      "_uid": "813ec099-8a6d-4189-9216-c9e52e448050",
+      "body": {
+        "type": "doc",
+        "content": [
+          {
+            "type": "paragraph",
+            "content": [
+              {
+                "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+                "type": "text",
+                "marks": [
+                  {
+                    "type": "styled",
+                    "attrs": {
+                      "class": ""
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "lead": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\"",
+      "image": "//a.storyblok.com/f/150277/600x338/34ef88938c/photo-1647161262122-bc9abd3491f8.jpg",
+      "photo": [
+        {
+          "id": 4044028,
+          "alt": "",
+          "name": "cool pic",
+          "focus": null,
+          "title": "",
+          "filename": "https://a.storyblok.com/f/150277/600x900/3164cc0dca/photo-1647105523228-c3294ecbba04.jpg",
+          "copyright": "",
+          "fieldtype": "asset"
+        }
+      ],
+      "author": "John Doe",
+      "headline": "Lorem Ipsum",
+      "component": "article",
+      "conclusion": [],
+      "_editable": "<!--#storyblok#{\"name\": \"article\", \"space\": \"150277\", \"uid\": \"813ec099-8a6d-4189-9216-c9e52e448050\", \"id\": \"115046259\"}-->"
+    },
+    "slug": "article",
+    "full_slug": "article",
+    "sort_by_date": null,
+    "position": -20,
+    "tag_list": [],
+    "is_startpage": false,
+    "parent_id": 0,
+    "meta_data": null,
+    "group_id": "879621b1-1133-4fb6-b93f-689f455cbe59",
+    "first_published_at": null,
+    "release_id": null,
+    "lang": "default",
+    "path": null,
+    "alternates": [],
+    "default_full_slug": null,
+    "translated_slugs": null
+  },
+  "cv": 1647215587,
+  "rels": [],
+  "links": []
+}
